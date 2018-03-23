@@ -1,6 +1,7 @@
 package at.refugeescode.mp6_the_three_cup_shuffle;
 
 import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

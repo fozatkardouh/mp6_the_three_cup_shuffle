@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class CupTest {
 
     private RestTemplate restTemplate = new RestTemplate();
-    private String url = "http://localhost:8080/coin";
+    private String url = "http://localhost:9052/coin";
 
     @Test
     void askIsCoinHere() {

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: at.refugeescode.mp6_the_three_cup_shuffle.Mp6TheThreeCupShuffleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.161 s - in at.refugeescode.mp6_the_three_cup_shuffle.Mp6TheThreeCupShuffleApplicationTests
